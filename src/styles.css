@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  align-items: center;
+  padding-bottom: 100%;
+}
+
+.emojis {
+  width: 70%;
+}
